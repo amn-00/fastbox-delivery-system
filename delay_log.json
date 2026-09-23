@@ -1,0 +1,32 @@
+[
+  {
+    "agent": "A1",
+    "package": "P1",
+    "delay_minutes": 0.0,
+    "arrival_time": "09:57"
+  },
+  {
+    "agent": "A1",
+    "package": "P4",
+    "delay_minutes": 11.9,
+    "arrival_time": "11:13"
+  },
+  {
+    "agent": "A2",
+    "package": "P2",
+    "delay_minutes": 23.4,
+    "arrival_time": "10:06"
+  },
+  {
+    "agent": "A2",
+    "package": "P5",
+    "delay_minutes": 0.0,
+    "arrival_time": "10:42"
+  },
+  {
+    "agent": "A3",
+    "package": "P3",
+    "delay_minutes": 0.0,
+    "arrival_time": "09:14"
+  }
+]
